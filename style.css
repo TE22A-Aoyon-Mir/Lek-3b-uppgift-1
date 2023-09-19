@@ -1,0 +1,9 @@
+#top{
+    border: 5px solid red;
+    min-height: 80px;
+}
+#rubrik{
+    background-color: aqua;
+    border: 5px solid black;
+    text-align: center;
+}
